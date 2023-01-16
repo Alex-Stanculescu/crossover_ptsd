@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Radu() {
+export default function Navbar() {
   return (
     <div>Radu</div>
   )
