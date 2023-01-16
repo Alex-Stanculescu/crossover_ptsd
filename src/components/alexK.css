@@ -1,0 +1,55 @@
+#upper{
+    background-color: #f5e8ce;
+    color:#A69D65;
+    margin: 0;
+    height: 33%;
+}
+#upperText{
+    margin: 0;
+}
+#middle{
+    background-color: #114335;
+    margin: 0;
+    color:#ddd579;
+    height: 33%;
+}
+#middleText{
+    margin: 0;
+}
+
+#lower{
+    background-color: #f5e8ce;
+    color:#114335;
+    margin: 0;
+    font-family: "Gill Sans";
+    height: 34%;
+}
+#lowerText{
+    margin: 0;
+}
+
+img{
+    padding: 0;
+    /* position: absolute; */
+    /* top: 40px; right: 20%; */
+    border: 5px solid #aea66e;
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+#hoizontal{
+    width: 70%;
+}
+.parentDiv{
+    /* position: relative; */
+    display: flex;
+    /* height: 600px; */
+    /* background-color: red; */
+}
+.parentImage{
+    
+    width: 30%;
+    left: 300px;
+
+}
+
