@@ -1,7 +1,7 @@
 import React from "react";
 import alexK from "./alexK.css";
 import coffeeGuy from "./photoAlex/coffeeGuy.png";
-import background from "./assets/coffee_bg.png"
+import background from "./assets/coffee_bg.png";
 
 export default function AlexK() {
   return (
@@ -12,8 +12,13 @@ export default function AlexK() {
             Take away<br></br> sustainable
           </h2>
         </div>
-        <div id="middle" div style={{
-      backgroundImage: url(${background})}}>
+        <div
+          id="middle"
+          div
+          style={{
+            backgroundImage: `url(${background})`,
+          }}
+        >
           <h3 id="middleText">
             Bring your cup<br></br> and pay 0,30 less
           </h3>
