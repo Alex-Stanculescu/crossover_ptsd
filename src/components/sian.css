@@ -1,0 +1,51 @@
+
+
+.finest{
+    background-color: #f5e7cd;
+    background-size: 80%;
+    color: #132d21;
+    padding: 12%;
+    width: 80%;
+    margin-left: 30%;
+    
+}
+
+.finest-text{
+    color:#4c6049;
+    margin-left: 25%;
+    
+}
+
+.header_cbeans{
+    margin-left: 25%;
+    text-align: center;
+}
+
+.beans_hand{
+    border: 12px solid #aba571;
+    
+    
+    
+
+}
+
+
+.body_sian{
+    background-image: url(./sians_images/coffee_bg.PNG);
+    background-repeat: no-repeat;
+    background-position: left 25%;
+    border-top: 5rem solid #132d21;
+    border-bottom: 5rem solid #132d21;
+    display: flex;
+    background-size: cover;
+    align-items: center;
+    
+    width: 100%;
+    
+}
+.img_body{
+    top: 185px;
+    left: 190px;
+    position: absolute;
+    width: 20%;
+}
