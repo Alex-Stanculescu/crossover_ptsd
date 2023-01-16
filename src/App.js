@@ -1,17 +1,16 @@
 import Lukas from './components/Lukas'
-import Radu from './components/Radu'
+import  Radu from './components/Menu/Radu'
 import AlexK from './components/AlexK'
 import Alex from './components/Alex'
 import Sian from './components/Sian'
 import Footer from './components/Footer'
-import Navbar from "react-bootstrap/Navbar";
-import "bootstrap/dist/css/bootstrap.min.css";
-import { ReactDOM } from 'react'
+import Navbar from './Navbar'
+
 
 function App() {
   return (
     <>
-      <Navbar />
+      <Navbar/>
       <Sian />
       <Radu />
       <AlexK />

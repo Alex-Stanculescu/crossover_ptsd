@@ -1,0 +1,9 @@
+.Menu {
+    background-image: url(./coffee_bg.png);
+    color:#a29b6d;
+}
+.image {
+    display: flex;
+    justify-content: space-between;
+}
+
